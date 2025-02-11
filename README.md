@@ -1,8 +1,8 @@
-# Olá, sou [Nayara] 👋
+# Olá, sou Nayara 👋
 
 ## Sobre mim 🚀
 
-Sou estudante de **[Análise e Desenvolvimento de Sistemas]** no **[Senac]**, com interesse em **[Enegenharia de Software e Ciência de Dados]**. Estou procurando alinhar meus conhecimentos acadêmicos ao mercado de trabalho
+Sou estudante de **Análise e Desenvolvimento de Sistemas** no **Senac**, com interesse em **Enegenharia de Software e Ciência de Dados**. Estou procurando alinhar meus conhecimentos acadêmicos ao mercado de trabalho
 
 🌱 **Atualmente estou aprendendo**: Java, Python, CSS, HTML, SQL. 
 
