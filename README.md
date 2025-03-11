@@ -6,7 +6,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** no **Senac**, com in
 
 🌱 **Atualmente estou aprendendo**: Java, Python, CSS, HTML, SQL. 
 
-📚 **Cursos recentes**: Associate Data Scientist in R, Datacamp
+📚 **Cursos recentes**: Associate Data Scientist in R, Datacamp ; SQL , Treinna Recife
 
 📫 **Como me encontrar**: [Meu Linkedin](www.linkedin.com/in/nayara-peixoto-64525b23b)
 
