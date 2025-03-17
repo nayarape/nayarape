@@ -42,9 +42,9 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** no **Senac**, com in
 🔹 **Descrição**: Portifólio Pessoal baseado num currículo profissional digital.  
 🔹 **Tecnologias usadas**: HTML, CSS, BOOTSTRAP
 
-### [Projeto 3: Seu Recife](https://github.com/nayarape/ProjetoPwa.git)
+### [Projeto 3: SEU RECIFE](https://github.com/nayarape/ProjetoPwa.git)
 🔹 **Descrição**: Desenvolvimento de uma página PWA de um app de criação de roteiros turísticos recifenses personalizados  
-🔹 **Tecnologias usadas**: HTML, CSS, PWA, JavaScript
+🔹 **Tecnologias usadas**: HTML, CSS, PWA, JavaScript               
 🔹 **Protótipo Figma**: [Conheça](https://www.figma.com/proto/siIKbw5lBtlhpBphOI4s5E/Seu-Recife?node-id=0-1&t=od87ZyRrgbMWvHVi-1)
 
 
