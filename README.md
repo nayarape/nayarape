@@ -4,7 +4,7 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** no **Senac**, com interesse em  **Desenvolvimento de Software e Ciência de Dados**. Estou procurando alinhar meus conhecimentos acadêmicos ao mercado de trabalho. 
 
-🌱 **Atualmente estou aprendendo**: Java, Python, CSS, HTML, SQL. 
+🌱 **Atualmente estou aprendendo**: Java, Python, CSS, HTML, SQL, JavaScript, Node.js, ReactNative. 
 
 📚 **Cursos recentes**: Associate Data Scientist in R, Datacamp ; SQL , Treinna Recife ; Node.js , RocketSeat 
 
@@ -35,8 +35,10 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** no **Senac**, com in
 ## 🚀 Projetos em Destaque
 
 ### [Projeto 1: ATHENA](link-do-repo)
-🔹 **Descrição**: Um projeto feito para [conectar mulheres por um aplicativo que compartilha interesses em comum].  
-🔹 **Tecnologias usadas**: Flutter, Dark, Flutlab
+🔹 **Descrição**: Um projeto feito para conectar mulheres por um aplicativo que compartilha interesses em comum.  
+🔹 **Tecnologias usadas**: Flutter, DART, Flutlab         
+🔹 **Protótipo Figma(Em construção)**: [Conheça](https://www.figma.com/proto/JlsFgH3OxLXAvGbfVMBb0R/Athena?node-id=0-1&t=3X2fJdDoIDtc6HUg-1)
+
 
 ### [Projeto 2: PORTIFÓLIO](https://github.com/nayarape/curriculoatualizado.git)
 🔹 **Descrição**: Portifólio Pessoal baseado num currículo profissional digital.  
