@@ -2,11 +2,11 @@
 
 ## Sobre mim 🚀
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** no **Senac**, com interesse em **Enegenharia de Software e Ciência de Dados**. Estou procurando alinhar meus conhecimentos acadêmicos ao mercado de trabalho
+Sou estudante de **Análise e Desenvolvimento de Sistemas** no **Senac**, com interesse em  **Desenvolvimento de Software e Ciência de Dados**. Estou procurando alinhar meus conhecimentos acadêmicos ao mercado de trabalho. 
 
 🌱 **Atualmente estou aprendendo**: Java, Python, CSS, HTML, SQL. 
 
-📚 **Cursos recentes**: Associate Data Scientist in R, Datacamp ; SQL , Treinna Recife
+📚 **Cursos recentes**: Associate Data Scientist in R, Datacamp ; SQL , Treinna Recife ; Node.js , RocketSeat 
 
 📫 **Como me encontrar**: [Meu Linkedin](www.linkedin.com/in/nayara-peixoto-64525b23b)
 
@@ -39,7 +39,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** no **Senac**, com in
 🔹 **Tecnologias usadas**: Flutter, Dark, Flutlab
 
 ### [Projeto 2: PORTIFÓLIO](https://github.com/nayarape/curriculoatualizado.git)
-🔹 **Descrição**: [Portifólio Pessoal baseado num currículo profissional digital].  
+🔹 **Descrição**: Portifólio Pessoal baseado num currículo profissional digital.  
 🔹 **Tecnologias usadas**: HTML, CSS, BOOTSTRAP
 
 ---
@@ -50,4 +50,4 @@ Fique à vontade para entrar em contato ou trocar ideias comigo através das min
 
 - **[LinkedIn](www.linkedin.com/in/nayara-peixoto-64525b23b)**  
 - **[Instagram](https://www.instagram.com/nayarape/)**  
-**Email**: [email@dominio.com](mailto:peixotonayara00@gmail.com)
+**Email**: [peixotonayara00@gmail.com](mailto:peixotonayara00@gmail.com)
