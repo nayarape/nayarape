@@ -42,7 +42,9 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** no **Senac**, com in
 
 ### [Projeto 2: PORTIFÓLIO](https://github.com/nayarape/curriculoatualizado.git)
 🔹 **Descrição**: Portifólio Pessoal baseado num currículo profissional digital.  
-🔹 **Tecnologias usadas**: HTML, CSS, BOOTSTRAP
+🔹 **Tecnologias usadas**: HTML, CSS, BOOTSTRAP        
+🔹 **Link**: [Acesse](https://portifolionayarape.netlify.app/)
+
 
 ### [Projeto 3: SEU RECIFE](https://github.com/nayarape/ProjetoPwa.git)
 🔹 **Descrição**: Desenvolvimento de uma página PWA de um app de criação de roteiros turísticos recifenses personalizados  
