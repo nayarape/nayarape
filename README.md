@@ -46,10 +46,15 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** no **Senac**, com in
 🔹 **Link**: [Acesse](https://nayaracv.netlify.app/)
 
 
-### [Projeto 3: SEU RECIFE](https://github.com/nayarape/ProjetoPwa.git)
+### [Projeto 3: SEU RECIFE ](https://github.com/nayarape/ProjetoPwa.git)
 🔹 **Descrição**: Desenvolvimento de uma página PWA de um app de criação de roteiros turísticos recifenses personalizados  
 🔹 **Tecnologias usadas**: HTML, CSS, PWA, JavaScript               
 🔹 **Protótipo Figma**: [Conheça](https://www.figma.com/proto/siIKbw5lBtlhpBphOI4s5E/Seu-Recife?node-id=0-1&t=od87ZyRrgbMWvHVi-1)
+
+### [Projeto 4: DENTEFIER ](https://github.com/nayarape/FrontDentefier.git)
+🔹 **Descrição**: Desenvolvimento de um API de Gerenciamento de Casos Odontolegais   
+🔹 **Tecnologias usadas**: HTML, CSS, PWA, JavaScript               
+🔹 **Protótipo**: [Conheça](prototipodentefier.netlify.app)
 
 
 
