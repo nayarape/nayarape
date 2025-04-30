@@ -51,9 +51,9 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** no **Senac**, com in
 🔹 **Tecnologias usadas**: HTML, CSS, PWA, JavaScript               
 🔹 **Protótipo Figma**: [Conheça](https://www.figma.com/proto/siIKbw5lBtlhpBphOI4s5E/Seu-Recife?node-id=0-1&t=od87ZyRrgbMWvHVi-1)
 
-### [Projeto 4: DENTEFIER ](https://github.com/nayarape/FrontDentefier.git)
+### [Projeto 4: DENTEFIER ](https://github.com/nayarape/BackDentefier.git)
 🔹 **Descrição**: Desenvolvimento de um API de Gerenciamento de Casos Odontolegais   
-🔹 **Tecnologias usadas**: HTML, CSS, PWA, JavaScript               
+🔹 **Tecnologias usadas**: JavaScript, NODE.js, JWT e outras               
 🔹 **Protótipo**: [Conheça](prototipodentefier.netlify.app)
 
 
